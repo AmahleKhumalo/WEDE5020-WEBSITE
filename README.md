@@ -1,2 +1,2 @@
-# WEDE5020-WEBSITE
-PART 1
+# WEDE5020 Part1
+Website
